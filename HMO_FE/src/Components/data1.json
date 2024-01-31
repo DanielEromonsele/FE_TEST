@@ -1,0 +1,44 @@
+[
+    {
+        "question": "What do you want",
+        "answer": "apple",
+        "options": [
+            {"A" : "apple"},
+            {"B" : "orange"},
+            {"C" : "pear"},
+            {"D" : "mango"}
+        ]
+    },   
+    {
+        "question": "What do you want",
+        "answer": "orange",
+        "options": [
+            {"A" : "apple"},
+            {"B" : "orange"},
+            {"C" : "pear"},
+            {"D" : "mango"}
+        ]
+    },   
+    {
+        "question": "What do you want",
+        "answer": "mango",
+        "options": [
+            {"A" : "apple"},
+            {"B" : "orange"},
+            {"C" : "pear"},
+            {"D" : "mango"}
+        ]
+    },   
+        {
+            "question": "What do you want",
+            "answer": "pear",
+            "options": [
+                {"A" : "apple"},
+                {"B" : "orange"},
+                {"C" : "pear"},
+                {"D" : "mango"}
+            ]
+        }   
+   
+]
+
